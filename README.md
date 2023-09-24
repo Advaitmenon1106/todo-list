@@ -2,7 +2,16 @@
 
 ## Table of Contents
 
-
+### [1. Introduction](#Introduction)
+   - #### [Summary](#brief-summary)
+   - #### [Product Value](#product-value)
+   - #### [Intended Audience](#intended-audience)
+  
+### [2. Description](#description)
+  - #### [User Prerequisites](#user-prerequisites)
+  - #### [Visual Structure](#visual-structure)
+  - #### [Menu Options](#menu-options)
+  - #### [Architecture](#architecture)
 
 
 
@@ -97,4 +106,4 @@ Django is the backend framework used in this project.
 The database running in the backend is a MySQL (relational) database.
 
 
-Top-Level Database Architecture: [https://docs.google.com/spreadsheets/d/1oU1autaJD3snmLhX60DujXwDM8RktoUeoWphQgmxX3Y/edit?usp=sharing]
+Top-Level Database Architecture: [Database Architecture](https://docs.google.com/spreadsheets/d/1oU1autaJD3snmLhX60DujXwDM8RktoUeoWphQgmxX3Y/edit?usp=sharing)
